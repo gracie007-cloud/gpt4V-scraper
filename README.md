@@ -1,15 +1,14 @@
 <div align="center">
 
-
-  <img src="https://res.cloudinary.com/dnz16usmk/image/upload/f_auto,q_auto/v1/vd7-website/gpt4v-logo" alt="Logo" width="80" height="80" />
-  <img src="https://res.cloudinary.com/dnz16usmk/image/upload/f_auto,q_auto/v1/vd7-website/wikipedia-logo" alt="Logo" width="67" height="67"/>
-   <img src="https://res.cloudinary.com/dnz16usmk/image/upload/f_auto,q_auto/v1/vd7-website/linkedin-logo" alt="Logo" width="67" height="67"/>
+<img src="https://raw.githubusercontent.com/vdutts7/webp/refs/heads/main/originals/chatgpt.webp" alt="logo" width="80" height="80" />
+<img src="https://raw.githubusercontent.com/vdutts7/webp/refs/heads/main/originals/chrome-canary.webp" alt="logo" width="80" height="80" />
+<img src="https://raw.githubusercontent.com/vdutts7/webp/refs/heads/main/originals/puppeteer.webp" alt="logo" width="80" height="80" />
 
   <h1 align="center">
-        GPT-4V Web Agent
+        GPT-4v Web Agent
     </h1>
     <p align="center"> 
-        <i><b>AI agent that can SEE 👁️, control, navigate, & do stuff for you on your browser.</b></i>
+        <i><b>AI agent that can SEE 👁️, control, navigate, & do stuff for you on your browser</b></i>
         <br /> 
     </p>
 
@@ -40,7 +39,7 @@ Click the banner to activate $200 free personal cloud credits on DigitalOcean (d
 
 <div style="display: flex; align-items: center; justify-content: center; width: 400px;"> 
     <a href="https://www.digitalocean.com/?refcode=2aa0ec7cfd0e&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge">
-        <img src="https://res.cloudinary.com/dnz16usmk/image/upload/v1709301461/digitalocean-referral.png"
+        <img src="https://res.cloudinary.com/ddyc1es5v/image/upload/v1772395492/digitalocean-referral.png"
             width="150"
         />
     </a>
